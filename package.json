@@ -1,0 +1,23 @@
+{
+  "name": "web-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdq/web-tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdq/web-tester/issues"
+  },
+  "homepage": "https://github.com/pdq/web-tester#readme",
+  "dependencies": {
+    "chromedriver": "^88.0.0",
+    "nightwatch": "^1.5.1"
+  }
+}
