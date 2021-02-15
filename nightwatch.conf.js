@@ -51,14 +51,14 @@ module.exports = {
 
 function loadServices () {
   try {
-    Services.seleniumServer = require('selenium-server');
+    Services.seleniumServer = require('selenium-server')
   } catch (err) { }
 
   try {
-    Services.chromedriver = require('chromedriver');
+    Services.chromedriver = require('chromedriver')
   } catch (err) { }
 
   try {
-    Services.geckodriver = require('geckodriver');
+    Services.geckodriver = require('geckodriver')
   } catch (err) { }
 }
