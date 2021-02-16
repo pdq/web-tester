@@ -1,5 +1,5 @@
 # 
-You've recently been reassigned as a tester to this web project, and a bunch of the tests are broken! Being the proactive tester that you are, you want to jump in and make sure that any tests for the project actually test the requirements for the application.
+You've recently been reassigned as a tester to this web project, and a bunch of the tests are broken or nonxeistent! Being the proactive tester that you are, you want to jump in and make sure that any tests for the project actually test the requirements for the application.
 (We use nightwatch for our tests.)
 
 # Prerequisites
