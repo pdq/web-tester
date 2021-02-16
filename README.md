@@ -25,7 +25,6 @@ We want "great" coverage for our tests, so make sure to hit all these marks:
 ## /search
 * You can search for articles
 * You can filter via tag
-* Links to the blogposts work
 
 ## /powershell
 * You can search for commands
