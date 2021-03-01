@@ -15,7 +15,6 @@ As part of this assessment, you'll need to use npm to install the dependencies o
 # Test Requirements
 We want "great" coverage for our tests, so make sure to hit all these marks:
 
-## root
 * You can search for content with the quick search bar
 * Dropdown menus are navigable
 * All footer links work
