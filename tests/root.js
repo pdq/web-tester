@@ -1,6 +1,6 @@
 module.exports = {
   // you can search for content with the quick search bar
-  search_works: function (browser) {
+  quick_search_works: function (browser) {
     browser
       .url('https://www.pdq.com')
       .waitForElementVisible('body', 1000)
