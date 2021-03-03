@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test:nightwatch": "npx nightwatch"
+    "test:nightwatch": "nightwatch"
   },
   "repository": {
     "type": "git",
