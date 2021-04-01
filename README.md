@@ -32,4 +32,6 @@ You'll want to fork this repository, make your changes, and then send a pull req
 
 # Lastly
 
+If you used the nightwatch version of this homework, you are welcome to still submit your results via pull request to this repository.
+
 This test should take about 30-60 minutes to complete depending on how familiar with JavaScript testing you are. The syntax should be pretty legible even if you don't write your tests in JavaScript. All of the broken tests are in the `tests` folder, and page objects are in the `pages` folder. You shouldn't have to muck about in `wdio.conf.js` or anything like that. And remember, human eyes are going to be reviewing the tests and how they perform. No robots here. As long as the test content meets the test requirements, you can completely re-write a test. You'll get bonus points for making the tests even more resilient!
