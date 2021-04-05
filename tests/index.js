@@ -1,7 +1,7 @@
 const pageObject = require('../pages/index.page')
 
 describe('pdq.com', () => {
-  it.only('you can search for content with the quick search bar', () => {
+  it('you can search for content with the quick search bar', () => {
     browser.url('https://www.pdq.com')
     browser.waitUntil(() => pageObject.body.isDisplayed() === true)
     pageObject.setValue('PowerShell')
